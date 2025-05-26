@@ -5,9 +5,9 @@ Our commitment extends beyond simply using open-source projects; we also activel
 
 ## 📜 Our main GitHub Organizations
 Here are the GitHub organizations we manage:
-•	[Worldline](https://github.com/worldline): This organization hosts our open-source projects, including complete solutions, individual components, and training materials.
-•	[Worldline Acquiring](https://github.com/worldline-acquiring): This space is dedicated to SDKs for Worldline acquiring solutions and capabilities.
-•	[Worldline Global Collect](https://github.com/Worldline-Global-Collect): Find the source code for all libraries, SDKs and plugins and example apps for Android and iOS for the Global Collect platform.
-•	[Worldline Global Online Pay](https://github.com/wl-online-payments-direct): This organization provides SDKs and plugins for merchants utilizing the Worldline Online Payments platform.
+-	[Worldline](https://github.com/worldline): This organization hosts our open-source projects, including complete solutions, individual components, and training materials.
+-	[Worldline Acquiring](https://github.com/worldline-acquiring): This space is dedicated to SDKs for Worldline acquiring solutions and capabilities.
+-	[Worldline Global Collect](https://github.com/Worldline-Global-Collect): Find the source code for all libraries, SDKs and plugins and example apps for Android and iOS for the Global Collect platform.
+-	[Worldline Global Online Pay](https://github.com/wl-online-payments-direct): This organization provides SDKs and plugins for merchants utilizing the Worldline Online Payments platform.
  
 We invite you to explore our repositories, contribute, and collaborate with us as we work together to drive open-source innovation at Worldline!
